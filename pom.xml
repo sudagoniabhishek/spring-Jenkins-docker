@@ -12,7 +12,7 @@
 	<groupId>com.spring.jenkins.docker</groupId>
 	<artifactId>spring-Jenkins-docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-Jenkins-docker</name>
+	<name>spring-jenkins-docker</name>
 	<description>Integrating Jenkins with Docker</description>
 	<url />
 	<licenses>
@@ -44,7 +44,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>spring-Jenkins-docker</finalName>
+		<finalName>spring-jenkins-docker</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

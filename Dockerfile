@@ -1,4 +1,4 @@
 FROM openjdk:17
 EXPOSE 8080
-ADD target/spring-Jenkins-docker.jar spring-Jenkins-docker.jar
-ENTRYPOINT ["java", "-jar","/spring-Jenkins-docker.jar"] 
+ADD target/spring-jenkins-docker.jar spring-jenkins-docker.jar
+ENTRYPOINT ["java", "-jar","/spring-jenkins-docker.jar"] 
